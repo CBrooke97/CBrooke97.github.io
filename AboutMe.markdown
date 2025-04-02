@@ -18,7 +18,7 @@ I thrive on the intersection of **technology and creativity**, always pushing to
 
 Over the years, I have worked across multiple disciplines in the games industry, giving me a **holistic understanding of development pipelines**. Before stepping into a programming role, I gained valuable experience in **QA at Rare and Rockstar Games**, where I worked in **multi-disciplinary, agile teams** alongside programmers, designers, and artists. This experience not only strengthened my ability to **identify, diagnose, and resolve complex issues** in AAA titles but also taught me the importance of **collaborative problem-solving and iterative development**.  
 
-At **Sumo Digital**, I have been further refining my skills as a **programmer**, working closely with designers, artists, and fellow engineers in an **agile environment**. I thrive in **fast-paced, iterative development**, actively participating in **stand-ups, sprint planning, and cross-discipline collaboration** to ensure that creative ideas are realized with technical efficiency and scalability.  
+At **Sumo Digital**, I have been further refining my skills as a **programmer**, working closely with designers, artists, testers, and fellow engineers in an **agile environment**. I thrive in **fast-paced, iterative development**, actively participating in **stand-ups, sprint planning, and cross-discipline collaboration** to ensure that creative ideas are realized with technical efficiency and scalability.  
 
 ## Technical Skills  
 
@@ -34,7 +34,7 @@ At **Sumo Digital**, I have been further refining my skills as a **programmer**,
 
 ## Agile Development & Teamwork  
 
-- **Multi-Disciplinary Collaboration** – Experienced in working with **designers, artists, and fellow programmers** to develop and refine gameplay features.  
+- **Multi-Disciplinary Collaboration** – Experienced in working with **designers, artists, testers, and fellow programmers** to develop and refine gameplay features.  
 
 - **Agile & Scrum Methodologies** – Comfortable in **Scrum-based teams**, contributing to **iterative development**, **feature refinement**, and **cross-discipline problem-solving**.  
 
@@ -45,6 +45,12 @@ At **Sumo Digital**, I have been further refining my skills as a **programmer**,
 I thrive in **problem-solving scenarios**, whether it's optimizing rendering pipelines, developing robust gameplay systems, or creating internal tools to streamline workflows. My approach is **forward-thinking and adaptable**, always seeking to refine my skillset and stay ahead of industry trends.  
 
 Beyond my professional work, I actively participate in **game jams**, using them as a platform to experiment with new mechanics, sharpen my coding skills, and collaborate with fellow developers.  
+
+## Personal Development & Independent Learning  
+
+I am deeply committed to **continuous learning and personal development**, always striving to expand my technical expertise and refine my approach to game development. Whether it’s **deepening my understanding of graphics rendering**, **designing scalable gameplay systems**, or **building custom tools**, I actively seek opportunities to push my skills further. My independent projects, including a **modular roguelike system in Godot**, allow me to experiment with new mechanics while reinforcing best practices in **optimization, data-oriented design, and engine architecture**.  
+
+Beyond structured learning, I thrive in **self-driven exploration**, whether participating in **game jams**, experimenting with **emerging technologies**, or even applying problem-solving skills to hobbies like **PC building**. I take pride in my ability to **learn independently, adapt quickly, and apply new knowledge effectively**, ensuring that I am always growing as a **programmer and problem solver**.
 
 ## Outside of Development  
 

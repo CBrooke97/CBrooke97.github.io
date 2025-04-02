@@ -21,7 +21,7 @@
 title: Carter Brooke Portfolio
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Carter Brooke—Apprentice Programmer at Sumo Digital, former QA at Rockstar & Rare, with a BSc in Games Production. Welcome to my portfolio!
+  Hi, I'm Carter Brooke — Apprentice Programmer at Sumo Digital, former QA at Rare & Rockstar, with a BSc in Games Production. Welcome to my portfolio!
 domain: cbrooke97.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://cbrooke97.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
@@ -49,6 +49,7 @@ nav:
 sections:
   portfolio_url: /
   aboutme_url: /AboutMe
+  cv_url: /CV
 
 # Exclude from processing.
 # The following items will not be processed, by default.
