@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Global font override
+body,
+h1, h2, h3, h4, h5, h6,
+p, li, blockquote, span, div,
+pre, code {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
