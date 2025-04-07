@@ -14,7 +14,7 @@ permalink: /
 
 # Project Recoil 
 
-**Group project**: Developed over three months as part of my Programming Apprenticeship at Sumo Digital, in partnership with Sheffield Wednesday. 
+**Group project**: Developed over three months as part of my Programming Apprenticeship at Sumo Digital, in partnership with Sheffield Wednesday
 
 - Developed in C++, with shaders in HLSL and Python for tools. 
 
