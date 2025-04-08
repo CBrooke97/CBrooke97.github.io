@@ -4,7 +4,6 @@
 
 layout: default
 title: Carter Brooke Portfolio
-permalink: /
 ---
 
 <video width="600" controls loop autoplay muted playsinline>
