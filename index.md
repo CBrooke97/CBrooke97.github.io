@@ -7,7 +7,7 @@ title: Carter Brooke Portfolio
 ---
 
 <video width="600" controls loop autoplay muted playsinline>
-  <source src="/assets/Recoil.mp4" type="video/mp4">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/Recoil.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -38,7 +38,7 @@ This project strengthened my ability to integrate technical solutions with artis
 # Unreal Engine 5 - Wave Function Collapse Tool 
 
 <video width="600" controls loop autoplay muted playsinline>
-  <source src="/assets/WaveFunctionCollapse.mp4" type="video/mp4">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/WaveFunctionCollapse.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -61,7 +61,7 @@ This project highlights my expertise in engine programming, tool development, an
 ## Unified – Brackeys Game Jam 2021  
 
 <video width="600" controls loop autoplay muted playsinline>
-  <source src="/assets/Unified.mp4" type="video/mp4">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/Unified.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

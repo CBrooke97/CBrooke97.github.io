@@ -4,7 +4,7 @@ order: 2
 layout: default
 ---
 
-![Profile-Image](/assets/me.png)
+![Profile-Image]({{ site.url }}{{ site.baseurl }}/assets/me.png)
 
 My name is **Carter Brooke**, and I’m a **Game Programmer** with a passion for creating immersive, technically polished games. Currently, I work as an **Apprentice Programmer at Sumo Digital**, where I’m honing my technical expertise while drawing on my **Games Production degree** and **QA experience** at **Rockstar and Rare Ltd** to develop new and engaging experiences.
 
